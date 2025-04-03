@@ -1,4 +1,5 @@
-namespace BookApi.Models
+namespace BookApi.Models;
+
 public class Book
 {
     public int Id { get; set; }
